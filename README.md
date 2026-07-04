@@ -98,13 +98,13 @@ public record Developer(
 </p> -->
 
 -----
-| ![Estatísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ASTRO-BOT344&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASTRO-BOT344&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASTRO-BOT344&theme=radical) |
+| ![Estatísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0XFlugel755&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0XFlugel755&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0XFlugel755&theme=radical) |
 |:-:|:-:|:-:|
 
-| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASTRO-BOT344&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=ASTRO-BOT344&theme=radical) |
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0XFlugel755&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=0XFlugel755&theme=radical) |
 |:-:|:-:|
 
-![Snake animation](https://github.com/ASTRO-BOT344/ASTRO-BOT344/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/0XFlugel755/0XFlugel755/blob/output/github-contribution-grid-snake.svg)
 
 ### 📜 Certificações
 ---
