@@ -115,7 +115,13 @@ public record Developer(
 |:---:|:---|:---:|:---|:---:|
 | <img src="https://assets.dio.me/vGUIAyrhEF7neqi6ECqmDlljgASfame8vf5gnF2C8z4/f:webp/q:80/w:480/L3RyYWNrcy83ZjhjNWVmOS0xNmRiLTQyYTMtYjVkNS0xMTE0YjU5MWY0MmYucG5n" width="48"/> | **[JAVA && CLOUD DEVELOPMENT](https://hermes.dio.me/certificates/SQIUTITA.pdf)** | ![java](https://img.shields.io/badge/DIO-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | `Java` `SpringBoot` `IA Prompting` `Cloud` `Docker` | `2026` |
 | <img src="https://images.credly.com/size/340x340/images/8b1dd44e-9a13-420b-b755-d100b13f1321/image.png" width="48"/> | **[Technical Support Fundamentals](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~LHWDWQ4U1IG7/CERTIFICATE_LANDING_PAGE~LHWDWQ4U1IG7.jpeg)** | ![COURSERA](https://img.shields.io/badge/COURSERA-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | `Customer Support` `Technical Documentation` `Linux` `Computer Hardware` `Technical Support` `Computer Literacy` | `2026` |
-| <img src="https://cdn.efset.org/efset-widget/img/v2/social-media/certificate/cefr-badge-B2.svg" width="48"/> | **[EF SET](https://cert.efset.org/WGbSGz)** | ![EF SET](https://img.shields.io/badge/EFSET-232F3E?style=flat-square&logo=EFSET&logoColor=black) | `B2 Upper Intermediate` | `2025` |
+| <img src="https://cdn.efset.org/efset-widget/img/v2/social-media/certificate/cefr-badge-B2.svg" width="48"/> | **[EF SET](https://cert.efset.org/WGbSGz)** | ![EF SET](https://img.shields.io/badge/EFSET-232F3E?style=flat-square&logo=EFSET&logoColor=black) | `B2 Upper Intermediate` | `2025` | 
+| <img src="https://imgs.search.brave.com/wzkAX7uXxLI2Iq5oYJvmGSr1XwkuNkYYomq1BLbbURM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbHVy/YS5ici5hcHRvaWRl/LmNvbS9fbmV4dC9p/bWFnZT91cmw9aHR0/cHM6Ly9jZG4uYXB0/b2lkZS5jb20vaW1n/cy81L2YvYi81ZmJj/MjA5YzhiMDEwZDYy/YmRmNDQwODcyODZm/NzBhOV9pY29uLnBu/ZyZ3PTM4NDAmcT03/NQ" width="48"/> | **[GESTÃO ÁGIL](https://cursos.alura.com.br/user/caiofelixmaia/course/gestao-agil-conceitos-agilidade/certificate)** | ![Alura](https://img.shields.io/badge/Alura-232F3E?style=flat-square&logo=EFSET&logoColor=black) | `Scrum` `Kanban` | `2026` | 
+
+
+<!--| <img src="https://imgs.search.brave.com/wzkAX7uXxLI2Iq5oYJvmGSr1XwkuNkYYomq1BLbbURM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbHVy/YS5ici5hcHRvaWRl/LmNvbS9fbmV4dC9p/bWFnZT91cmw9aHR0/cHM6Ly9jZG4uYXB0/b2lkZS5jb20vaW1n/cy81L2YvYi81ZmJj/MjA5YzhiMDEwZDYy/YmRmNDQwODcyODZm/NzBhOV9pY29uLnBu/ZyZ3PTM4NDAmcT03/NQ" width="48"/> 
+** | ![GESTÃO ÁGIL](https://img.shields.io/badge/GESTAO-AGIL-232F3E?style=flat-square&logo=Alura&logoColor=black)** | `Srcum` `kanban` | `Alura` |-->
+
 
 </div>
 
