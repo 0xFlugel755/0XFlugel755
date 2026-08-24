@@ -1,8 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=120&section=header"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=120&section=header"/>-->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:9D00FF&text=CAIO%20FELIX&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&size=35&center=true&vCenter=true&width=1000&lines=System.out.println+"Olá,+Mundo!";+Meu+none+é+Caio+Felix;Tenho+20+Anos+;Sou+Do+Brasil;Sou+Técnico+em+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&color=9D00FF&size=26&center=true&vCenter=true&width=1000&lines=System.out.println+"HELLO+WORLD!";SOFTWARE+ENGINEERING;SYSTEMS+DEVELOPMENT+TECHNICIAN;JAVA+|+C+|+PYTHON;WELCOME!+:%29)](https://git.io/typing-svg)
 
 
 
