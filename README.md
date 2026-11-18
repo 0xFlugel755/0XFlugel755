@@ -1,148 +1,114 @@
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=120&section=header"/>-->
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050505,50:6d28d9,100:9D00FF&text=CAIO%20FELIX&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="./assets/banner.svg" alt="CAIO FELIX — Software Engineer (banner em pixel art com planeta, lua e estrelas)"/>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3200&pause=1200&color=C77DFF&center=true&vCenter=true&width=900&height=50&lines=System.out.println%28%22HELLO,+UNIVERSE!%22%29%3B;HOUSTON,+TEMOS+UM+DEV!;SOFTWARE+ENGINEERING;JAVA+%7C+SPRING+BOOT+%7C+PYTHON+%7C+C;EXPLORANDO+O+BACK-END+DO+UNIVERSO..." alt="Typing SVG"/></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&color=9D00FF&size=26&center=true&vCenter=true&width=1000&lines=System.out.println+"HELLO+WORLD!";SOFTWARE+ENGINEERING;SYSTEMS+DEVELOPMENT+TECHNICIAN;JAVA+|+C+|+PYTHON;WELCOME!+:%29)](https://git.io/typing-svg)
+</div>
 
+<br>
 
+<img src="./assets/h-mission-log.svg" alt="01 // MISSION LOG"/>
 
----
-### 🧭 Sobre mim:
+> 🛰️ *Diário de bordo:* desde criança eu queria entender o que acontece **por trás das telas** — o famoso back-end.
+> Decolei em **2022** como autodidata em Python, entrei na órbita do **Java** e nunca mais saí.
 
-<!--Meu nome é **Caio Felix**. Atualmente, sou graduando em **Engenharia de Software** e estou em processo de conclusão do curso técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia desde a infância, sempre tive curiosidade em entender o que acontece por trás das telas e como tudo funciona — o famoso **back-end**. Iniciei minha trajetória em **2022** como autodidata em **Python** e, posteriormente, migrei para o **Java**, que hoje é a minha linguagem favorita.--> 
+```java
+import java.util.List;
 
-```ts
-public record Developer(
-    String nome,
-    int idade,
-    String localizacao,
-    String educacao,
-    List<String> habilidades,
-    String objetivo,
-    String conquista
+public record Astronauta(
+        String nome,
+        int idade,
+        String baseDeLancamento,
+        String formacao,
+        List<String> arsenal,
+        String missaoAtual
 ) {
     public static void main(String[] args) {
-        var caio = new Developer(
-            "Caio Felix",
-            21,
-            "Resende, RJ — Brasil",
-            "Engenheiro de Software & Desenvolvimento de Sistemas",
-            List.of("Java", "Python", "Spring Boot", "SQL"),
-            "Estágio / Engenheiro de Software em treinamento"
+        var caio = new Astronauta(
+                "Caio Felix",
+                21,
+                "Resende, RJ — Planeta Terra",
+                "Engenharia de Software + Técnico em Desenvolvimento de Sistemas",
+                List.of("Java", "Spring Boot", "Python", "C", "SQL"),
+                "Conseguir um estágio e explorar o back-end do universo"
         );
 
-        System.out.println(caio);
+        System.out.println("🚀 Houston, temos um dev: " + caio);
     }
 }
 ```
 
-### 🗂 Habilidades && Ferramentas
----
----
+<br>
+
+<img src="./assets/h-inventory.svg" alt="02 // INVENTORY"/>
+
 <div align="center">
 
-<table style="background-color: white; border-collapse: collapse; width: 100%;">
-  <thead>
-    <tr>
-      <th width="10%">💻 Back-end</th>
-      <th width="10%">📚 Frameworks</th>
-      <th width="10%">🧰 IDE's</th>
-      <th width="10%">🗄️ Banco de Dados</th>
-      <th width="10%">☁️ DevOps</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java logo" /><br>Java
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring logo" /><br>Spring Boot
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode logo" /><br>VSCode
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA logo" /><br>IntelliJ IDEA
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySql logo" /><br>MySQL
-        <br>
-      </td>
-      <td align="center">
-       <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" /><br>Git
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
-        <br><br>
-  </tbody>
-</table>
+| Slot | Itens equipados |
+|:--|:--|
+| ⚔️ **Linguagens** | <img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" alt="Java, Python, C"/> |
+| 🧪 **Frameworks** | <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot"/> |
+| 💾 **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/> |
+| 🛠️ **DevOps** | <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="Git, GitHub, Docker"/> |
+| 🧭 **Nave (IDEs & SO)** | <img src="https://skillicons.dev/icons?i=idea,vscode,arch&theme=dark" alt="IntelliJ IDEA, VS Code, Arch Linux"/> |
 
 </div>
 
-### 📊 Minhas estatísticas no GitHub
----
-<!-- <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=radical&hide_border=false&custom_title=Estatísticas+do+GitHub" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ASTRO-BOT344&layout=compact&theme=radical&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
-</div>
+<br>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ASTRO-BOT344&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASTRO-BOT344&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASTRO-BOT344&theme=radical" />
-</p>
+<img src="./assets/h-high-score.svg" alt="03 // HIGH SCORE"/>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASTRO-BOT344&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=ASTRO-BOT344&theme=tokyonight&hide_border=false" />
-</p> -->
-
------
-| ![Estatísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0XFlugel755&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0XFlugel755&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0XFlugel755&theme=radical) |
-|:-:|:-:|:-:|
-
-| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0XFlugel755&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=0XFlugel755&theme=radical) |
-|:-:|:-:|
-
-![Snake animation](https://github.com/0XFlugel755/0XFlugel755/blob/output/github-contribution-grid-snake.svg)
-
-### 📜 Certificações
----
----
 <div align="center">
 
-| Badge | Certificate | Platform | Skills | Year |
+<img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0XFlugel755&theme=tokyonight" alt="Estatísticas"/>
+<img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0XFlugel755&theme=tokyonight" alt="Linguagens com mais commits"/>
+
+<img src="https://streak-stats.demolab.com?user=0XFlugel755&locale=pt_BR&background=0D0221&border=9D00FF&stroke=3C096C&ring=9D00FF&fire=FFD447&currStreakNum=F3E8FF&sideNums=F3E8FF&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=8A7FA8" alt="Sequência de contribuições"/>
+
+</div>
+
+<br>
+
+<img src="./assets/h-boss-fight.svg" alt="04 // BOSS FIGHT"/>
+
+<div align="center">
+
+*Cada quadradinho do meu gráfico de contribuições virou um inimigo. Atualizado todo dia.* 👾
+
+<img width="100%" src="./assets/space-shooter.gif" alt="Gráfico de contribuições jogado como um shooter espacial estilo Galaga"/>
+
+</div>
+
+<br>
+
+<img src="./assets/h-achievements.svg" alt="05 // ACHIEVEMENTS"/>
+
+<div align="center">
+
+| Insígnia | 🏆 Conquista desbloqueada | Plataforma | Habilidades | Ano |
 |:---:|:---|:---:|:---|:---:|
-| <img src="https://assets.dio.me/vGUIAyrhEF7neqi6ECqmDlljgASfame8vf5gnF2C8z4/f:webp/q:80/w:480/L3RyYWNrcy83ZjhjNWVmOS0xNmRiLTQyYTMtYjVkNS0xMTE0YjU5MWY0MmYucG5n" width="48"/> | **[JAVA && CLOUD DEVELOPMENT](https://hermes.dio.me/certificates/SQIUTITA.pdf)** | ![java](https://img.shields.io/badge/DIO-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | `Java` `SpringBoot` `IA Prompting` `Cloud` `Docker` | `2026` |
-| <img src="https://images.credly.com/size/340x340/images/8b1dd44e-9a13-420b-b755-d100b13f1321/image.png" width="48"/> | **[Technical Support Fundamentals](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~LHWDWQ4U1IG7/CERTIFICATE_LANDING_PAGE~LHWDWQ4U1IG7.jpeg)** | ![COURSERA](https://img.shields.io/badge/COURSERA-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | `Customer Support` `Technical Documentation` `Linux` `Computer Hardware` `Technical Support` `Computer Literacy` | `2026` |
-| <img src="https://cdn.efset.org/efset-widget/img/v2/social-media/certificate/cefr-badge-B2.svg" width="48"/> | **[EF SET](https://cert.efset.org/WGbSGz)** | ![EF SET](https://img.shields.io/badge/EFSET-232F3E?style=flat-square&logo=EFSET&logoColor=black) | `B2 Upper Intermediate` | `2025` | 
-| <img src="https://imgs.search.brave.com/wzkAX7uXxLI2Iq5oYJvmGSr1XwkuNkYYomq1BLbbURM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbHVy/YS5ici5hcHRvaWRl/LmNvbS9fbmV4dC9p/bWFnZT91cmw9aHR0/cHM6Ly9jZG4uYXB0/b2lkZS5jb20vaW1n/cy81L2YvYi81ZmJj/MjA5YzhiMDEwZDYy/YmRmNDQwODcyODZm/NzBhOV9pY29uLnBu/ZyZ3PTM4NDAmcT03/NQ" width="48"/> | **[GESTÃO ÁGIL](https://cursos.alura.com.br/user/caiofelixmaia/course/gestao-agil-conceitos-agilidade/certificate)** | ![Alura](https://img.shields.io/badge/Alura-232F3E?style=flat-square&logo=EFSET&logoColor=black) | `Scrum` `Kanban` | `2026` | 
-
-
-<!--| <img src="https://imgs.search.brave.com/wzkAX7uXxLI2Iq5oYJvmGSr1XwkuNkYYomq1BLbbURM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbHVy/YS5ici5hcHRvaWRl/LmNvbS9fbmV4dC9p/bWFnZT91cmw9aHR0/cHM6Ly9jZG4uYXB0/b2lkZS5jb20vaW1n/cy81L2YvYi81ZmJj/MjA5YzhiMDEwZDYy/YmRmNDQwODcyODZm/NzBhOV9pY29uLnBu/ZyZ3PTM4NDAmcT03/NQ" width="48"/> 
-** | ![GESTÃO ÁGIL](https://img.shields.io/badge/GESTAO-AGIL-232F3E?style=flat-square&logo=Alura&logoColor=black)** | `Srcum` `kanban` | `Alura` |-->
-
+| <img src="https://assets.dio.me/vGUIAyrhEF7neqi6ECqmDlljgASfame8vf5gnF2C8z4/f:webp/q:80/w:480/L3RyYWNrcy83ZjhjNWVmOS0xNmRiLTQyYTMtYjVkNS0xMTE0YjU5MWY0MmYucG5n" width="48"/> | **[Java & Cloud Development](https://hermes.dio.me/certificates/SQIUTITA.pdf)** | ![DIO](https://img.shields.io/badge/DIO-0D0221?style=flat-square) | `Java` `Spring Boot` `IA Prompting` `Cloud` `Docker` | `2026` |
+| <img src="https://images.credly.com/size/340x340/images/8b1dd44e-9a13-420b-b755-d100b13f1321/image.png" width="48"/> | **[Technical Support Fundamentals](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~LHWDWQ4U1IG7/CERTIFICATE_LANDING_PAGE~LHWDWQ4U1IG7.jpeg)** | ![Coursera](https://img.shields.io/badge/Coursera-0D0221?style=flat-square&logo=coursera&logoColor=white) | `Suporte Técnico` `Linux` `Hardware` `Documentação Técnica` | `2026` |
+| <img src="https://imgs.search.brave.com/wzkAX7uXxLI2Iq5oYJvmGSr1XwkuNkYYomq1BLbbURM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbHVy/YS5ici5hcHRvaWRl/LmNvbS9fbmV4dC9p/bWFnZT91cmw9aHR0/cHM6Ly9jZG4uYXB0/b2lkZS5jb20vaW1n/cy81L2YvYi81ZmJj/MjA5YzhiMDEwZDYy/YmRmNDQwODcyODZm/NzBhOV9pY29uLnBu/ZyZ3PTM4NDAmcT03/NQ" width="48"/> | **[Gestão Ágil](https://cursos.alura.com.br/user/caiofelixmaia/course/gestao-agil-conceitos-agilidade/certificate)** | ![Alura](https://img.shields.io/badge/Alura-0D0221?style=flat-square) | `Scrum` `Kanban` | `2026` |
+| <img src="https://cdn.efset.org/efset-widget/img/v2/social-media/certificate/cefr-badge-B2.svg" width="48"/> | **[EF SET — Inglês B2](https://cert.efset.org/WGbSGz)** | ![EF SET](https://img.shields.io/badge/EF_SET-0D0221?style=flat-square) | `B2 Upper Intermediate` | `2025` |
 
 </div>
 
+<br>
+
+<img src="./assets/h-open-channel.svg" alt="06 // OPEN CHANNEL"/>
+
 <div align="center">
-    
-### Vamos nos conectar?
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-felix-5965032a7) 
+
+📡 *Canal de comunicação aberto — dúvidas, sugestões ou propostas de missão:*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-felix-5965032a7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiozzyn.05/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiofelixmaia@gmail.com)
 
+<br><br>
+
+<img width="100%" src="./assets/footer.svg" alt="END OF TRANSMISSION — INSERT COIN TO CONTINUE"/>
+
 </div>
-
----
-
-<p align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTUwZWw1MnZ4Zm5qZGZxOTVycWYxcDU5a2hwdXA3N2h3cTg4NmF3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif" alt="Bloco de interrogação" width="100">
-</p>
-
-<p align="center">
-  Dúvidas ou sugestões? Entre em contato comigo!
-</p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:9D00FF"/>
